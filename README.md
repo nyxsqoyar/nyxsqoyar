@@ -1,10 +1,10 @@
 # About Me:
 
 I’m currently working on **My Own Portfolio**.  
-I’m currently learning **JavaScript, MySQL, skript**.  
-I’m looking for help with **Professional Developers (JAVA)**.    
+I’m currently learning **JavaScript, MySQL**.  
+I’m looking for help with **Plugin Developers**.    
 How to reach me: Discord @**nyxsqoyar_**  
-Know about my experiences: [https://nyxsqoyar.fun](https://nyxsqoyar.github.io/My-Website/)
+Know about my experiences: [nyxsqoyar.fun](https://nyxsqoyar.github.io/My-Website/)
 
 ---
 
